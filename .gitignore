@@ -1,0 +1,29 @@
+# Media files and caches
+Resources/
+outputs/
+data_cache/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+*.cpython-311.pyc
+
+# Caches
+__pycache__/
+*.pkl
+
+# Environments
+env/
+.venv/
+venv/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
